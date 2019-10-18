@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  function_4.c
+  function_5.c
+  正在產生程式碼...
+c:\c_code\ch2_lab1-2\lab1-2\lab1-2\function_5.c(34): warning C4716: 'Han_Xin_5': 必須傳回值
+c:\c_code\ch2_lab1-2\lab1-2\lab1-2\function_4.c(38): warning C4716: 'Han_Xin_4': 必須傳回值
+  lab1-2.vcxproj -> C:\c_code\Ch2_Lab1-2\lab1-2\lab1-2\..\..\temp\debug\lab1-2.exe
